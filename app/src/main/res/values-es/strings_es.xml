@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="hello_en">Hello, World!</string>
+    <string name="hello_es">¡Hola, Mundo!</string>
+    <string name="hello_fr">Bonjour, le Monde!</string>
+    <string name="hello_pt">Olá, Mundo!</string>
+</resources>
